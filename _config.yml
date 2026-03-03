@@ -1,0 +1,25 @@
+title: PairSync Support
+description: Official documentation and support for PairSync - Statistical Pairs Trading Education
+theme: minima
+markdown: kramdown
+url: "https://markm0705.github.io"
+baseurl: "/PairSync-Pro"
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# SEO
+author: PairSync
+twitter:
+  username: pairsync
+  card: summary
+
+# Exclude from processing
+exclude:
+  - README_INTERNAL.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor

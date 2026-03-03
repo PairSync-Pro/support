@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://markm0705.github.io/PairSync-Pro/sitemap.xml
